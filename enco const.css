@@ -48,12 +48,13 @@ p{
     }
 }
 .main{
-    height:1200px;
+    height:1000px;
     display: flex;
     flex-direction: column;
     background-color: bisque;
     padding: 40px;
     border-radius: 25px;
+    gap:20px
 
     h2{
     font-size: 30px;
