@@ -48,7 +48,7 @@ p{
     }
 }
 .main{
-    height:1500px
+    height:1500px;
     display: flex;
     flex-direction: column;
     background-color: bisque;
